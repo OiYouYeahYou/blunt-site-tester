@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@types/node": "^17.0.18"
+  },
+  "dependencies": {
+    "differencify": "^1.5.5"
+  }
+}
